@@ -1,0 +1,7 @@
+.dropdown-menu{
+    box-shadow: none;
+}
+.dropdown-menu a{
+    font-weight: lighter;
+    color: #999999;
+}

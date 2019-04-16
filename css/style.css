@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+/* components design  */
+@import url("components/avatar.css");
+@import url("components/button.css");
+ @import url("components/dropdown.css"); 
+@import url("components/card.css");
+@import url("components/badge.css");
+@import url("components/banner.css");
+@import url("components/tabs.css");
+@import url("components/product.css"); 
+
+/* ---------fonts------------- */
+body{
+ font-family: "Open Sans" ,"sans-serif" ;
+ padding-bottom: 200px;
+  
+}
+h1,h2,h3{
+    font-family: "sans-serif";
+}
